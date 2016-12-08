@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+hello_counter	ngx_http_hello_module.c	/^	ngx_int_t hello_counter;$/;"	m	struct:__anon1	file:
+hello_string	ngx_http_hello_module.c	/^	ngx_str_t hello_string;$/;"	m	struct:__anon1	file:
+ngx_hello_visited_times	ngx_http_hello_module.c	/^static int ngx_hello_visited_times = 0;$/;"	v	file:
+ngx_http_hello_commands	ngx_http_hello_module.c	/^static ngx_command_t ngx_http_hello_commands[] = {$/;"	v	file:
+ngx_http_hello_counter	ngx_http_hello_module.c	/^static char* ngx_http_hello_counter(ngx_conf_t *cf, ngx_command_t *cmd,void *conf)$/;"	f	file:
+ngx_http_hello_create_loc_conf	ngx_http_hello_module.c	/^static void *ngx_http_hello_create_loc_conf(ngx_conf_t *cf)$/;"	f	file:
+ngx_http_hello_handler	ngx_http_hello_module.c	/^static ngx_int_t ngx_http_hello_handler(ngx_http_request_t *r)$/;"	f	file:
+ngx_http_hello_init	ngx_http_hello_module.c	/^static ngx_int_t ngx_http_hello_init(ngx_conf_t *cf)$/;"	f	file:
+ngx_http_hello_loc_conf_t	ngx_http_hello_module.c	/^}ngx_http_hello_loc_conf_t;$/;"	t	typeref:struct:__anon1	file:
+ngx_http_hello_module	ngx_http_hello_module.c	/^ngx_module_t ngx_http_hello_module = {$/;"	v
+ngx_http_hello_module_ctx	ngx_http_hello_module.c	/^static ngx_http_module_t ngx_http_hello_module_ctx = {$/;"	v	file:
+ngx_http_hello_string	ngx_http_hello_module.c	/^static char* ngx_http_hello_string(ngx_conf_t *cf, ngx_command_t *cmd,void *conf)$/;"	f	file:
